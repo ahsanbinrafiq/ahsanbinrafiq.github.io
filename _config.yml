@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
-<head>
-<title> We Entertain the World! </title>
-</head>
+title: Cayman theme
+description: Cayman is a clean, responsive theme for GitHub Pages.
+show_downloads: true
+google_analytics:
