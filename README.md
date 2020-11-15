@@ -1,5 +1,28 @@
 <html>
 <head>
+<style>
+      .button {
+      border: 2px;
+      color: white;
+      padding 16px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margi: 4px 2px;
+      transition duration: 0.4s;
+      cursor: pointer;
+      }
+      .button1 {
+      background-color: white;
+      color: black;
+      border: 2px solid #4CAF50;
+      }
+      .button1: hover {
+      background-color: #4CAF50;
+      color: white;
+      }
+      </style>
 <title> Suntech Cell 
       </title>
 </head>
@@ -22,5 +45,6 @@
         <span> See Our Games</span>
         </a>
         </div>
+        <button class="button1"> See Our Games </button>
         </body>
 </html>
