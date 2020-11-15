@@ -12,8 +12,8 @@
       margi: 4px 2px;
       transition duration: 0.4s;
       cursor: pointer;
-      width: 40%;
-      height: 70%;
+      width: 20%;
+      height: 80%;
       }
       .button1 {
       background-color: white;
