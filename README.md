@@ -14,6 +14,7 @@
       cursor: pointer;
       width: 20%;
       height: 80%;
+      border-radius:8px;
       }
       .button1 {
       background-color: white;
