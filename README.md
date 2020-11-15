@@ -12,7 +12,7 @@
       margi: 4px 2px;
       transition duration: 0.4s;
       cursor: pointer;
-      width: 20%;
+      width: 40%;
       height: 100%;
       border-radius:8px;
       }
