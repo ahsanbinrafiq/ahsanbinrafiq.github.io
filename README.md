@@ -53,11 +53,12 @@
       We make valuable apps</h3>
       <p> Building valuable and personalized mobile apps for everyone is our mission. If you have this passion too, Suntech Cell is the place for you.
       </p>
+       <button class="button button1"> See Our Games </button>
        </div>
             <div class="right">
                <img src="subway.webp" alt="subway-image">   
             </div>
       </div>
-       <button class="button button1"> See Our Games </button>
+     
         </body>
 </html>
