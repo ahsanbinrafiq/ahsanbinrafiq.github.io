@@ -54,7 +54,7 @@
       <p> Building valuable and personalized mobile apps for everyone is our mission. If you have this passion too, Suntech Cell is the place for you.
       </p>
         <form action="https://play.google.com/store/apps/dev?id=7874234134476459079">
-       <button type="submit", class="button button1"> See Our Games </button>
+       <button type="submit" class="button button1"> See Our Games </button>
                   </form>
        </div>
             <div class="right">
