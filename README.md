@@ -48,7 +48,7 @@
       </p>
        </div>
             <div id="right">
-               <img src="subway.jpg" alt="subway-image">   
+               <img src="subway.webp" alt="subway-image">   
             </div>
       </div>
        <button class="button button1"> See Our Games </button>
