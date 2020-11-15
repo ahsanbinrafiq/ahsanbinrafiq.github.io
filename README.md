@@ -36,11 +36,18 @@
       <p> We build awesome games for our players. Our hits are Kite Flight and Jungle runner and many more in the near future. Take a break and discover a lifetime of fun!
       </p>
       <br>
+      </div>
+      <div id="container">
+            <div id="left">
       <h3>
       We make valuable apps</h3>
       <p> Building valuable and personalized mobile apps for everyone is our mission. If you have this passion too, Suntech Cell is the place for you.
       </p>
        </div>
+            <div id="right">
+                  
+            </div>
+      </div>
        <button class="button button1"> See Our Games </button>
         </body>
 </html>
