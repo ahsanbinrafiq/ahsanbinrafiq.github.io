@@ -25,14 +25,14 @@
       background-color: #4CAF50;
       color: white;
       }
-      img {
-      width: 100%;
+      .img {
+      width: 50%;
       }
-      left{
+      .left{
       float: left;
       width: 50px;
       }
-     right {
+     .right {
       margin-left: 210px;
       }
       </style>
