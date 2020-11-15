@@ -12,6 +12,7 @@
       margi: 4px 2px;
       transition duration: 0.4s;
       cursor: pointer;
+      width: 40%;
       }
       .button1 {
       background-color: white;
@@ -38,11 +39,6 @@
       <p> Building valuable and personalized mobile apps for everyone is our mission. If you have this passion too, Suntech Cell is the place for you.
       </p>
        </div>
-        <div>
-        <a href="https://play.google.com/store/apps/dev?id=7874234134476459079" target="self">
-        <span> See Our Games</span>
-        </a>
-        </div>
-        <button class="button button1"> See Our Games </button>
+       <button class="button button1"> See Our Games </button>
         </body>
 </html>
