@@ -28,6 +28,13 @@
       img {
       width: 100%;
       }
+      left{
+      float: left;
+      width:100px;
+      }
+     right {
+      margin-left: 210px;
+      }
       </style>
 <title> Suntech Cell 
       </title>
