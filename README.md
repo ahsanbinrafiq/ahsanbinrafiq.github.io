@@ -9,7 +9,7 @@
       text-decoration: none;
       display: inline-block;
       font-size: 18px;
-      margi: 4px 2px;
+      margin: 4px 2px;
       transition duration: 0.4s;
       cursor: pointer;
       width: 40%;
