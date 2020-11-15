@@ -13,7 +13,7 @@
       transition duration: 0.4s;
       cursor: pointer;
       width: 40%;
-      height: 30%;
+      height: 50%;
       }
       .button1 {
       background-color: white;
