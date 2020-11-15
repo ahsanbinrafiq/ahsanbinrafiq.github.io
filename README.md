@@ -30,7 +30,7 @@
       }
       .left{
       float: left;
-      width: 300px;
+      width: 500px;
       }
      .right {
       margin-left: 510px;
