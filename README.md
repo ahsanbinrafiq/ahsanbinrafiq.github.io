@@ -48,13 +48,13 @@
       <br>
       </div>
       <div id="container">
-            <div id="left">
+            <div class="left">
       <h3>
       We make valuable apps</h3>
       <p> Building valuable and personalized mobile apps for everyone is our mission. If you have this passion too, Suntech Cell is the place for you.
       </p>
        </div>
-            <div id="right">
+            <div class="right">
                <img src="subway.webp" alt="subway-image">   
             </div>
       </div>
