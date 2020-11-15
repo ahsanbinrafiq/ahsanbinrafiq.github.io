@@ -33,7 +33,7 @@
       width: 50px;
       }
      .right {
-      margin-left: 210px;
+      margin-left: 510px;
       }
       </style>
 <title> Suntech Cell 
