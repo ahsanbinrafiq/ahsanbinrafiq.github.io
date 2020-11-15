@@ -13,11 +13,11 @@
       transition duration: 0.4s;
       cursor: pointer;
       width: 40%;
-      height: 50%;
+      height: 70%;
       }
       .button1 {
       background-color: white;
-      color: black;
+      color: green;
       border: 2px solid #4CAF50;
       }
       .button1:hover {
