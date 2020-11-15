@@ -13,7 +13,7 @@
       transition duration: 0.4s;
       cursor: pointer;
       width: 20%;
-      height: 80%;
+      height: 100%;
       border-radius:8px;
       }
       .button1 {
