@@ -58,7 +58,9 @@
                   </form>
        </div>
             <div class="right">
-               <img src="subway.webp" alt="subway-image">   
+                  <a href="https://play.google.com/store/apps/details?id=com.subway.jungle.runner.endless.run.rush.game">
+               <img src="subway.webp" alt="subway-image"> 
+                  </a>
             </div>
       </div>
      
